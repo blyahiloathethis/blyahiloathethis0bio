@@ -1,7 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 
 const AboutMe = () => {
-    const servicesBedge = ["He/Him", "Fave ─ Forget Me Not, Moldir & Lopera", "20+", "CN/DE/EN", "Repost/♡", "No Repost Ships", "Mostly keep to myself", "Auto-Based User", "Heteroromantic Ace", "Homosexual Aro", "Hobby: FE", "Into: Classic Literature, Boozes, Classic Art"];
+    const servicesBedge = ["He/Him", "Fave ─ Forget Me Not, Moldir & Lopera", "20+", "CN/DE/EN", "Repost/♡", "No Repost Ships", "Mostly keep to myself", "Heteroromantic Ace", "Homosexual Aro", "Hobby: FE", "Into: Classic Literature, Boozes, Classic Art"];
     return (
         <section>
             <div className="container">
