@@ -18,7 +18,7 @@ const HeroSection = () => {
                             <div className="flex flex-col gap-2 sm:gap-3 items-left xs:items-start">
                                 <h1>ß</h1>
                                 <p className="text-violet-700 font-normal items-left xs:item-center">
-                                 Casual r1999 Player or Typical Salaryman
+                                 Typical Salaryman playing r1999
                                 </p>
                                 <div className="flex items-center gap-2">
                                     <Image src={"/images/icon/map-icon.svg"} alt="map-icon" width={20} height={20} />
